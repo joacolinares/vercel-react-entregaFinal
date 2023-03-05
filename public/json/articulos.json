@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Silla de escritorio   con apoyapiés gamer ergonómica negra y roja con tapizado de cuero sintético",
+        "marca": "Consulogo",
+        "modelo": "KFY1806",
+        "precio": 60000,
+        "cantidad": 2,
+        "img": "../silla gamer.png"
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "nombre": "Monitor  27g4 Gamer Plano 240hz 100v/240v",
+        "marca": "Samsung",
+        "modelo": "S27BG40",
+        "precio": 150000,
+        "cantidad": 2,
+        "img": "../monitor1.png"
+    },
+    {
+        "id": 3,
+        "idCategoria": 3,
+        "nombre": "Teclado gamer español latinoamérica color negro con luz RGB",
+        "marca": "Redragon",
+        "modelo": "Kumara K552",
+        "precio": 18999,
+        "cantidad": 6,
+        "img": "../teclado1.png"
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "nombre": "Mouse de juego Essential blanco ",
+        "marca": "Razer",
+        "modelo": "DeathAdder",
+        "precio": 12200,
+        "cantidad": 3,
+        "img": "../mouse1.png"
+    },
+    {
+        "id": 5,
+        "idCategoria": 4,
+        "nombre": "Mouse de juego lila",
+        "marca": "Logitech",
+        "modelo": " G Series Lightsync G203",
+        "precio": 7300,
+        "cantidad": 5,
+        "img": "../mouse2.png"
+    },
+    {
+        "id": 6,
+        "idCategoria": 4,
+        "nombre": "Mouse Gamer  Personalizable",
+        "marca": "The Game House",
+        "modelo": "TGH01",
+        "precio": 1600,
+        "cantidad": 12,
+        "img": "../mouse3.png"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Monitor Gamer 24 Pulgadas   Esports 144hz",
+        "marca": "Benq",
+        "modelo": "Zowie Xl2411k",
+        "precio": 106000,
+        "cantidad": 4,
+        "img": "../monitor2.png"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Teclado Bluetooth  Fizz Pro Argentina Color Celeste Y Blanco Con Luz Rgb",
+        "marca": "Redragon",
+        "modelo": "K616-rgb-ar",
+        "precio": 17799,
+        "cantidad": 2,
+        "img": "../teclado2.png"
+    }
+]
